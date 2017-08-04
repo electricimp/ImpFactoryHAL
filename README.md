@@ -1,6 +1,6 @@
 # impFactory Hardware Abstraction Layer
 
-Use the impFactory_005 table to access the hardware pins and uart objects.
+Use the impFactory_005 table to access the hardware pins and uart objects for imp005 based impFactory hardware.
 
 ## impFactory_005
 
