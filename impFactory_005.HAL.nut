@@ -23,7 +23,7 @@
 // THE SOFTWARE.
 
 // impFactory_005 Factory Fixture HAL
-impFactory_005 = {
+impFactory_005 <- {
     "LED_RED"          : hardware.pinF,
     "LED_GREEN"        : hardware.pinE,
     "BLINKUP_PIN"      : hardware.pinM,
